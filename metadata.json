@@ -1,0 +1,6 @@
+{
+  "name": "Basketball Shootout Scoreboard",
+  "description": "Basketball 3-point shootout controller and real-time OBS livestream overlay HUD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
